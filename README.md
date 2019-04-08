@@ -1,7 +1,6 @@
 # Minimal Video
 
 A minimal docker container to check that docker containers can run graphical programs.
-The Storj Share Daemon+CLI (https://github.com/Storj/storjshare-daemon).
 
 ## Pull
 
